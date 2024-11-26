@@ -12,13 +12,15 @@
 
 [realsense offical unity wrapper](https://github.com/IntelRealSense/librealsense/tree/development/wrappers/unity)
 1. Download Intel.RealSense.unitypackage
-2. 
 ## Importing RealSense Unity Package
-### Download in releases
-:point_right:[releases](https://github.com/IntelRealSense/librealsense/releases) <br/>
-By the following link, download the latest package for Unity. It will be something like '**Intel.RealSense.unitypackage**'.
+### 1. Download in releases
+By the following link :point_right:[releases](https://github.com/IntelRealSense/librealsense/releases), download the latest package for Unity. It will be something like '🧮**Intel.RealSense.unitypackage**'.
 
 <details>
-  <summary><i>Guidelines</i></summary>
+  <summary><b>Detailed Guidelines</b></summary>
+  With the following link above, scroll down to find the page where Assests are placed.
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/25cad9b1-96d0-452b-9a3d-f975cb90b351"/>
+  </p>
   <b>Content</b>
 </details>
