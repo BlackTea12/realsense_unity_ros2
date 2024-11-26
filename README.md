@@ -18,9 +18,9 @@ By the following link :point_right:[releases](https://github.com/IntelRealSense/
 
 <details>
   <summary><b>Detailed Guidelines</b></summary>
-  With the following link above, scroll down to find the page where Assests are placed.
-  <p align="center">
+  <p>With the following link above, scroll down to find the page where _Assests_ are placed. </p>
+  <p align="left">
     <img src="https://github.com/user-attachments/assets/25cad9b1-96d0-452b-9a3d-f975cb90b351"/>
   </p>
-  <b>Content</b>
+  <p> </p>
 </details>
