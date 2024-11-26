@@ -19,21 +19,30 @@ By the following link :point_right:[releases](https://github.com/IntelRealSense/
 Open any project you want to import realsense package. <br/>
 Click **Assests > Import Package > Custom Package ...**, and import '_🧮.unitypackage_' in _📁Downloads_ or any other directory you downloaded.
 
+### 3. Drag and Drop to Scene
+In directory '📁RealSenseSDK2.0 > Models', drag and drop T265 model into the scene. We know have a visual of the camera model!
+
 <details>
-  <summary><b>❓Detailed Guidelines</b></summary>
+  <summary>For image supported guidelines...:point_down:</summary>
   <p>With the following link above, scroll down to find the page where <i>Assests</i> are placed.</p>
-  <p align="left">
-    <img src="https://github.com/user-attachments/assets/25cad9b1-96d0-452b-9a3d-f975cb90b351"/>
+  <p align="center">
+    <img src="https://github.com/user-attachments/assets/25cad9b1-96d0-452b-9a3d-f975cb90b351" width=50%/>
   </p>
   
   <p>After downloading .unitypackage, open Unity Project to import downloaded package as <b>custom package</b> like below.</p>
   <p><b><i>'.unitypackage'</i></b> extension is only available for this.</p>
-  <p align="left"> 
-    <img src="https://github.com/user-attachments/assets/8b277438-a668-4dea-b69e-4d42b0bd74cf"/>
+  <p align="center"> 
+    <img src="https://github.com/user-attachments/assets/8b277438-a668-4dea-b69e-4d42b0bd74cf" width=30%/>
   </p>
 
-  ![image](https://github.com/user-attachments/assets/8aef0fc1-cc7d-4f26-9fa2-ead60f2629fa)
-  ![Screenshot from 2024-11-26 13-43-23](https://github.com/user-attachments/assets/7941bcf1-12bf-4937-8958-af163a446695)
-  ![Screenshot from 2024-11-26 13-43-57](https://github.com/user-attachments/assets/53a558c7-c426-4445-b682-430ebd93efe1)
+  <p>Now go to <b><i>'Assests > RealSenseSDK2.0'</i></b> and click to see models.</p>
+  <p align="center"> 
+    <img src="https://github.com/user-attachments/assets/8aef0fc1-cc7d-4f26-9fa2-ead60f2629fa" height=50%/>
+  </p>
+  <p>Drag and drop the model T265 in the scene and tada!:clap:</p>
+  <p align="center"> 
+    <img src="https://github.com/user-attachments/assets/53a558c7-c426-4445-b682-430ebd93efe1" width=16%/>
+    <img src="https://github.com/user-attachments/assets/7941bcf1-12bf-4937-8958-af163a446695" height=50%/>
+  </p>
 
 </details>
