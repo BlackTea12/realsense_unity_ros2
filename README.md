@@ -17,13 +17,14 @@ By the following link :point_right:[releases](https://github.com/IntelRealSense/
 
 ### 2. Import as custom package in Unity Project
 Open any project you want to import realsense package. <br/>
-Click **Assests > Import Package > Custom Package ...**, and import '_🧮.unitypackage_' in _📁Downloads_ or any other directory you downloaded.
+Click _Assests > Import Package > Custom Package ..._, and import '_.unitypackage_' in _📁Downloads_ or any other directory you downloaded.
 
 ### 3. Drag and Drop to Scene
-In directory '📁RealSenseSDK2.0 > Models', drag and drop T265 model into the scene. We know have a visual of the camera model!
+In directory '_📁RealSenseSDK2.0 > Models_', drag and drop T265 model into the scene. We know have a visual of the camera model!
 
 <details>
-  <summary>For image supported guidelines...:point_down:</summary>
+  <summary align="right"><i>For image supported guidelines...👇</i></summary>
+  <br/>
   <p>With the following link above, scroll down to find the page where <i>Assests</i> are placed.</p>
   <p align="center">
     <img src="https://github.com/user-attachments/assets/25cad9b1-96d0-452b-9a3d-f975cb90b351" width=50%/>
@@ -39,7 +40,7 @@ In directory '📁RealSenseSDK2.0 > Models', drag and drop T265 model into the s
   <p align="center"> 
     <img src="https://github.com/user-attachments/assets/8aef0fc1-cc7d-4f26-9fa2-ead60f2629fa" height=50%/>
   </p>
-  <p>Drag and drop the model T265 in the scene and tada!:clap:</p>
+  <p>Drag and drop the model <b>T265</b> in the scene and tada!👏</p>
   <p align="center"> 
     <img src="https://github.com/user-attachments/assets/53a558c7-c426-4445-b682-430ebd93efe1" width=16%/>
     <img src="https://github.com/user-attachments/assets/7941bcf1-12bf-4937-8958-af163a446695" height=50%/>
