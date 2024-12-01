@@ -20,7 +20,7 @@ Open any project you want to import realsense package. <br/>
 Click _Assests > Import Package > Custom Package ..._, and import '_.unitypackage_' in _📁Downloads_ or any other directory you downloaded.
 
 ### 3. Drag and Drop to Scene
-In directory '_📁RealSenseSDK2.0 > Models_', drag and drop T265 model into the scene. We know have a visual of the camera model!
+In directory '_📁RealSenseSDK2.0 > Models_', drag and drop T265 model into the scene. We know have a visual of the **camera** model!
 
 <details>
   <summary align="right"><i>For image supported guidelines...👇</i></summary>
